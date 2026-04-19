@@ -103,6 +103,8 @@ plt.tight_layout()
 plt.savefig('hour_distribution.png', dpi=150)
 print("✅ 图表 hour_distribution.png 已保存。")
 plt.show()
+# 任务2：时间分布图绘制完成
+
 
 # ==============================================================================
 # 任务 3：线路站点分析
